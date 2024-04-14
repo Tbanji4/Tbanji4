@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tbanji4
+- 👋 Hi, I’m @Banji Tolulope 
 - 👀 I’m interested in Data Analysis 
 - 🌱 I’m currently learning Data Analytics 
 - 💞️ I’m looking to collaborate on ...
